@@ -1,4 +1,4 @@
-# new_project
+# New Project Template
 
 A new flutter project template.
 
