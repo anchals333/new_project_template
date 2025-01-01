@@ -1,16 +1,14 @@
 # new_project
 
-new project
+A new flutter project template.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project has : 
+- Auto route for navigation
+- BLOC state management
+- Dio for network request
+- GetIt for dependency injection
+- Theme provider for theme management
+- Flutter screen util for responsive design
+- Localizations for multi language support
