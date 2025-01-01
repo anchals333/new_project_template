@@ -1,0 +1,10 @@
+{
+  "flutter": "Flutter",
+  "@flutter": {
+    "description": "Displays text Flutter",
+    "type": "text",
+    "placeholders": {}
+  },
+  "title": "Flutter Demo",
+  "counter" : "Counter"
+}
